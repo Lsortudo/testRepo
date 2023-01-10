@@ -1,7 +1,7 @@
 
 # APP Screenshot/Videos
 
-![](https://github.com/Lsortudo/firebaseApp/blob/main/screenshots/Login%20screen.png =360x740)
+![](https://github.com/Lsortudo/firebaseApp/blob/main/screenshots/Login%20screen.png)
 
 ![](https://github.com/Lsortudo/firebaseApp/blob/main/screenshots/SignUp%20screen.png =360x740) <br>
 
